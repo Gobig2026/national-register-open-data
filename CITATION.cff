@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "National Register of Historic Places open data"
+type: dataset
+abstract: "One row per property on the US National Register of Historic Places, with reference number, listing dates, removals since 22 May 2026, status, coordinates where public, Wikidata ID and nomination link. Built on National Park Service data."
+authors:
+  - name: "Historic Places Atlas"
+    website: "https://historicplacesatlas.com"
+repository-code: "https://github.com/Gobig2026/national-register-open-data"
+url: "https://github.com/Gobig2026/national-register-open-data"
+license: CC-BY-4.0
+version: "2026-11-20"
+date-released: "2026-11-20"
+keywords:
+  - National Register of Historic Places
+  - historic places
+  - open data
+  - United States
